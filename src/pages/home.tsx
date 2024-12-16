@@ -5,7 +5,7 @@ import React, { useEffect } from 'react';
 export default function Home(props:any) {
 
   const callAPI = async () => {
-    const res = await fetch("http://localhost:3001/api/hello");
+    const res = await fetch("/api/hello");
     const data = await res.json();
     console.log(data);
   }
