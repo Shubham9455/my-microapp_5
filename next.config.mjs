@@ -7,6 +7,51 @@ const nextConfig = {
     if (!options.isServer) {
       config.plugins.push(new MicroappNextFederationPlugin());
     }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
+    if (!options.isServer) {
+      config.plugins.push(new MicroappNextFederationPlugin());
+    }
     return config;
   }
 };

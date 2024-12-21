@@ -1,0 +1,4 @@
+{
+  "name": "mymicroapp5",
+  "entryComponent": "./src/pages/index.tsx"
+}

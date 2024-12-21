@@ -9,13 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@microapp-io/cli": "^0.1.7",
     "@microapp-io/react": "^1.0.0",
-    "@microapp-io/scripts": "^0.2.5",
+    "@microapp-io/ui": "^1.0.7",
     "next": "14.2.20",
     "react": "^18",
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@microapp-io/scripts": "^0.2.5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
@@ -23,6 +25,7 @@
     "eslint-config-next": "14.2.20",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "typescript": "^5"
+    "typescript": "^5",
+    "webpack": "^5.97.1"
   }
 }
